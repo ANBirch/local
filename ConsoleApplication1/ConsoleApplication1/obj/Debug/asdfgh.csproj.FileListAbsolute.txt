@@ -1,0 +1,5 @@
+C:\Users\bereza.DSSA\Documents\GitHub\local\ConsoleApplication1\ConsoleApplication1\bin\Debug\Console.exe.config
+C:\Users\bereza.DSSA\Documents\GitHub\local\ConsoleApplication1\ConsoleApplication1\bin\Debug\Console.exe
+C:\Users\bereza.DSSA\Documents\GitHub\local\ConsoleApplication1\ConsoleApplication1\bin\Debug\Console.pdb
+C:\Users\bereza.DSSA\Documents\GitHub\local\ConsoleApplication1\ConsoleApplication1\obj\Debug\Console.exe
+C:\Users\bereza.DSSA\Documents\GitHub\local\ConsoleApplication1\ConsoleApplication1\obj\Debug\Console.pdb
