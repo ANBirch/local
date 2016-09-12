@@ -11,6 +11,17 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир!!!");
+
+
+
+;
+;
+rf
+fc
+rfc
+
+dev
+
         }
     }
 }
